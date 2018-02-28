@@ -1,5 +1,4 @@
 # Face-Recognition
-
 This application is capable of identifying or verifying a person from a digital image or a video frame from a video source.
 
 Used the k-nearest-neighbors(knn) algorithm and OpenCV (Open Source Computer Vision Library) for face recognition.
